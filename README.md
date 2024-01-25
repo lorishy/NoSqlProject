@@ -12,9 +12,9 @@ Les données utilisées dans cette application couvrent divers aspects du footba
 
 ### Prérequis
 
-    - Installer Python, pip
-    - Installer Jupyter
-    - Installer Streamlit
+    * Installer Python, pip
+    * Installer Jupyter
+    * Installer Streamlit
 
 ### Utilisation du script
 
